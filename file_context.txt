@@ -20,6 +20,7 @@ PUBG ID:TED-GamingTV
 Youtube:@TEDGamingTV1
 Instagram:@tedgamingtv
 Discord:https://discord.com/invite/vnQdtn3XST
+
 The Gaming PC of TED has specification as follows:
 AMD Ryzen 7 7800X3D 8-Core Processor 4.20 GHz
 Gigabyte GeForce RTX 4080 SUPER 16GB GAMING Graphics Card
@@ -27,6 +28,7 @@ XPG Lancer 16gb 6000mhz RAM
 MSI MAG B650 Tomahawk WiFi Motherboard
 Acer Nitro 27 Inch IPS WQHD 2560X1440 Pixels Gaming Backlight Led LCD Monitor 180Hz
 LG Gaming 24 Inch Full HD (1920 x 1080) Pixels LED Monitor 144Hz
+
 The streaming PC of TED has specification as follows:
 Intel core i7-6700KCPU 4.00GHz
 ASUS STRIX GTX 980 Ti OC 6GB
